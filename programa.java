@@ -1,1 +1,0 @@
-Programa correctament fet.
